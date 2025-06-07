@@ -1,0 +1,7 @@
+Date,Product,Category,Price,Quantity,Revenue,Region,Month
+2024-01-01,Laptop,Electronics,60000,2,120000,North,2024-01
+2024-01-02,Phone,Electronics,30000,1,30000,South,2024-01
+2024-01-03,T-Shirt,Fashion,500,10,5000,East,2024-01
+2024-02-01,Laptop,Electronics,58000,1,58000,North,2024-02
+2024-02-05,Shoes,Fashion,2000,3,6000,West,2024-02
+2024-03-01,Phone,Electronics,31000,2,62000,South,2024-03
