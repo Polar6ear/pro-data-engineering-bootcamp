@@ -1,19 +1,24 @@
-# 🛒 Retail Sales Data Processor
+# 🛍️ Retail Sales Data Processor
 
-## 📌 Problem
-Analyze a sales CSV file and generate key business KPIs.
+## 🚀 Goal
+A mini project to analyze retail sales data using Pandas — part of my 60-day sprint to become a Pro-Level Data Engineer.
 
-## 🧠 What I Built
-- `top_products_by_revenue()`
-- `monthly_sales_summary()`
-- `region_wise_kpi_report()`
+## 📁 Input CSV
+`sales.csv` with columns:
+- Date, Product, Category, Price, Quantity, Revenue, Region
 
-## 📂 Input File Format
-sales.csv with columns: `Date`, `Product`, `Category`, `Price`, `Quantity`, `Revenue`, `Region`
+## 🧠 Functions Built
+1. `top_products_by_revenue()`  
+2. `monthly_sales_summary()`  
+3. `region_wise_kpi_report()`
 
-## 📤 Sample Output
-Displays top-selling products, monthly revenue chart, region-based KPIs.
+## 📊 Sample Output
+| Month   | Revenue | Quantity |
+|---------|---------|----------|
+| 2025-01 | 110000  | 3        |
+| 2025-02 | 140000  | 4        |
 
-## ▶️ How to Run
-1. Install pandas
-2. Run `retail_analysis.ipynb` inside JupyterLab
+## 🛠️ How to Run
+```bash
+pip install pandas
+jupyter notebook retail_analysis.ipynb
