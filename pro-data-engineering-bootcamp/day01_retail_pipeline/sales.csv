@@ -1,0 +1,6 @@
+Date,Product,Category,Price,Quantity,Revenue,Region
+2025-01-05,Laptop,Electronics,50000,1,50000,North
+2025-01-18,Phone,Electronics,30000,2,60000,South
+2025-02-10,Laptop,Electronics,50000,1,50000,North
+2025-02-24,Phone,Electronics,30000,3,90000,West
+2025-03-01,Laptop,Electronics,50000,1,50000,East
